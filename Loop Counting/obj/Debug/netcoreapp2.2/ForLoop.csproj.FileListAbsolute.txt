@@ -1,0 +1,11 @@
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.csprojAssemblyReference.cache
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.csproj.CoreCompileInputs.cache
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.AssemblyInfoInputs.cache
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.AssemblyInfo.cs
+D:\Software Development\For Loop\bin\Debug\netcoreapp2.2\ForLoop.deps.json
+D:\Software Development\For Loop\bin\Debug\netcoreapp2.2\ForLoop.runtimeconfig.json
+D:\Software Development\For Loop\bin\Debug\netcoreapp2.2\ForLoop.runtimeconfig.dev.json
+D:\Software Development\For Loop\bin\Debug\netcoreapp2.2\ForLoop.dll
+D:\Software Development\For Loop\bin\Debug\netcoreapp2.2\ForLoop.pdb
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.dll
+D:\Software Development\For Loop\obj\Debug\netcoreapp2.2\ForLoop.pdb
