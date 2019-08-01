@@ -1,0 +1,22 @@
+D:\Software Development\Survey\bin\Debug\netcoreapp2.2\Survey.deps.json
+D:\Software Development\Survey\bin\Debug\netcoreapp2.2\Survey.runtimeconfig.json
+D:\Software Development\Survey\bin\Debug\netcoreapp2.2\Survey.runtimeconfig.dev.json
+D:\Software Development\Survey\bin\Debug\netcoreapp2.2\Survey.dll
+D:\Software Development\Survey\bin\Debug\netcoreapp2.2\Survey.pdb
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.csprojAssemblyReference.cache
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.csproj.CoreCompileInputs.cache
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.AssemblyInfoInputs.cache
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.AssemblyInfo.cs
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.dll
+D:\Software Development\Survey\obj\Debug\netcoreapp2.2\Survey.pdb
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.csprojAssemblyReference.cache
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.csproj.CoreCompileInputs.cache
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.AssemblyInfoInputs.cache
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.AssemblyInfo.cs
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.dll
+D:\Software Development\VS Code Projects\Survey\obj\Debug\netcoreapp2.2\Survey.pdb
+D:\Software Development\VS Code Projects\Survey\bin\Debug\netcoreapp2.2\Survey.deps.json
+D:\Software Development\VS Code Projects\Survey\bin\Debug\netcoreapp2.2\Survey.runtimeconfig.json
+D:\Software Development\VS Code Projects\Survey\bin\Debug\netcoreapp2.2\Survey.runtimeconfig.dev.json
+D:\Software Development\VS Code Projects\Survey\bin\Debug\netcoreapp2.2\Survey.dll
+D:\Software Development\VS Code Projects\Survey\bin\Debug\netcoreapp2.2\Survey.pdb
