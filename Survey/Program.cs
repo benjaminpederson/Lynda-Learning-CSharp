@@ -1,10 +1,8 @@
-﻿using System;
+using System;
 
 namespace Survey
 {
-    class Program
-    {
-        class Data
+    class Data
     {
         public string Name;
         public int Age;
@@ -34,6 +32,8 @@ namespace Survey
             }
         }
     }
+    class Program
+    {
         static void Main(string[] args)
         {
             var data = new Data();
