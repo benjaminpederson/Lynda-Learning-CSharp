@@ -34,8 +34,11 @@ namespace Survey
     }
     class Program
     {
+        public static event Action Posted;
         static void Main(string[] args)
         {
+            var stats = new Stats();
+            stats.Start();
             var data = new Data();
 
             Console.WriteLine("Hello, thank you for taking the time to participate in our survey.  Please answer the following:");
@@ -48,9 +51,11 @@ namespace Survey
 
             Console.WriteLine("What month were you born in?");
             data.Month = QuestionAnswer();
+            
+            if(Posted != null)
+                Posted();
 
             data.Display();
-
         }
          
         static string QuestionAnswer()
